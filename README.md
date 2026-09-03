@@ -1,6 +1,6 @@
 # Hi 👋, I'm NIPUN ROY
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D5603AQG2QuPWHAD93A/profile-displayphoto-scale_200_200/B56Z8ZE6puHUAc-/0/1782832148319?e=1790208000&v=beta&t=wzhUS5lRNMT6qYlPAxTB8lg_TLzawV0i08qKFoI47lI" alt="nipun-roy" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D5616AQHJcV8CYNLuzw/profile-displaybackgroundimage-shrink_350_1400/B56aBna2u8IMAU-/0/1788441488546?e=1790208000&v=beta&t=DiUHM4KOcdjBbEBhYLgbWIGrD3KFFOwogCtR24_orc0" /> </p>
 
 - 🔭 I'm currently working on **HTML, CSS, Javascript, TS for frontend development.**
 
