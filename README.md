@@ -1,6 +1,5 @@
-# Hi 👋, I'm NIPUN ROY
-
 <p align="left"> <img src="https://media.licdn.com/dms/image/v2/D5616AQHJcV8CYNLuzw/profile-displaybackgroundimage-shrink_350_1400/B56aBna2u8IMAU-/0/1788441488546?e=1790208000&v=beta&t=DiUHM4KOcdjBbEBhYLgbWIGrD3KFFOwogCtR24_orc0" /> </p>
+# Hi 👋, I'm NIPUN ROY
 
 - 🔭 I'm currently working on **HTML, CSS, Javascript, TS for frontend development.**
 
